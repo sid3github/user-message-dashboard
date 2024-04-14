@@ -9,16 +9,6 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### you can start the json-server using the following command:
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+json-server --watch db.json --port 3001
