@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "message": "Hello, world!",
+      "user": "John Doe",
+      "date": "2023-04-13"
+    },
+    {
+      "id": "2",
+      "message": "This is a test message.",
+      "user": "Jane Smith",
+      "date": "2023-04-12"
+    },
+    {
+      "id": "3",
+      "message": "Checking in from the dashboard.",
+      "user": "Bob Johnson",
+      "date": "2023-04-11"
+    }
+  ]
+}
